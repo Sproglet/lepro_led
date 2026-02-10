@@ -29,7 +29,7 @@ This custom integration logs in to **Lepro Cloud**, retrieves your lights and st
 ### Option A — HACS (recommended)
 1. Make sure you have [HACS](https://hacs.xyz/) installed in Home Assistant.
 2. In Home Assistant: **HACS → Integrations → ⋮ (three dots) → Custom repositories**.  
-   Add `https://github.com/Sanji78/lepro_led` as **Category: Integration**.
+   Add `https://github.com/losprog/lepro_led` as **Category: Integration**.
 3. Find **Lepro LED** in HACS and click **Download**.
 4. **Restart** Home Assistant.
 
@@ -72,14 +72,6 @@ This custom integration logs in to **Lepro Cloud**, retrieves your lights and st
 
 ## 🙌 Contributing
 PRs and issues are welcome. Please open an issue with logs if you hit a bug.
-
----
-
-## ❤️ Donate
-If this project helps you, consider buying me a coffee:  
-**[PayPal](https://www.paypal.me/elenacapasso80)**.
-
-..and yes... 😊 the paypal account is correct. Thank you so much!
 
 ---
 
